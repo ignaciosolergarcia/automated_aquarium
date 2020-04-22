@@ -5,7 +5,7 @@ The idea is to have a continuous system that simulates the sun increasing / decr
 
 ![Front view of a Hailea E-15](./images/front_view.jpg)
 
-Hailea is a Chinesse company that builds average aquariums. In this case it is a small one that comes already with a manual led system so it makes it easier to modify it.
+Hailea is a Chinese company that builds average aquariums. In this case it is a small one that comes already with a manual led system so it makes it easier to modify it but anyone,  with or without included leds, can be modified to include this system.
 
 ![Front view of a Hailea E-15](./images/brand_and_model.jpg)
 

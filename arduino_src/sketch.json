@@ -1,0 +1,14 @@
+{
+  "cpu": {
+    "fqbn": "arduino:avr:nano:cpu=atmega168",
+    "name": "Arduino Nano",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": [
+    {
+      "name": "RTClib",
+      "version": "1.4.0"
+    }
+  ]
+}
