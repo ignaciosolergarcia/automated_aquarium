@@ -11,6 +11,15 @@ The idea is to have a continuous system that simulates the sun increasing / decr
   <img src="./images/brand_and_model.jpg">
 </p>
 
+# User Manual
+
+The aquarium has two working modes:
+
+* Manual
+* Automatic
+
+In Manual mode 
+
 # Materials
 
 I am including links to the place were I bought them but I'm no way affiliated with them. It is a way to ensure that you have the same device I used.
@@ -20,3 +29,8 @@ I am including links to the place were I bought them but I'm no way affiliated w
 * [TTP223 Capacitive touch key](https://www.aliexpress.com/item/32815466969.html?spm=a2g0s.9042311.0.0.27424c4dvkudii)
 * [Red leds](https://www.aliexpress.com/item/32862878599.html?spm=2114.12010612.8148356.1.116019a6mAhl0N)
 * [1K Resistor](https://www.aliexpress.com/item/33029770547.html?spm=a2g0s.9042311.0.0.27424c4dvkudii)
+
+# Electrical Diagram
+
+
+
