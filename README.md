@@ -13,12 +13,12 @@ The idea is to have a continuous system that simulates the sun increasing / decr
 
 # User Manual
 
-The aquarium has two working modes:
+The aquarium has two working mode that can be selected with the Mode touch key:
 
 * Manual
 * Automatic
 
-In Manual mode 
+In Manual mode you can change the lighting power of the white or the blue lights with the corresponding touch keys and you will get feedback of the 
 
 # Materials
 
@@ -32,5 +32,5 @@ I am including links to the place were I bought them but I'm no way affiliated w
 
 # Electrical Diagram
 
-
+![Diagram](./images/application_diagram.png)
 
