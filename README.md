@@ -5,8 +5,16 @@ The idea is to have a continuous system that simulates the sun increasing / decr
 
 ![Front view of a Hailea E-15](./images/front_view.jpg)
 
-Hailea is a Chinese company that builds average aquariums. In this case it is a small one that comes already with a manual led system so it makes it easier to modify it but anyone,  with or without included leds, can be modified to include this system.
+[Hailea](http://hailea.com/e-hailea/index.htm) is a Chinese company that builds average aquariums. In this case it is a small one (15 liters) that comes already with a manual led system so it makes it easier to modify it but anyone,  with or without included leds, can be modified to include this system.
 
 ![Front view of a Hailea E-15](./images/brand_and_model.jpg)
 
-WIP
+# Materials
+
+I am including links to the place were I bought them but I'm no way affiliated with them. It is a way to ensure that you have the same device I used.
+
+* [Arduino Nano](https://www.aliexpress.com/item/32845416583.html?spm=a2g0s.9042311.0.0.48ec4c4dxoacGG) (I've used a 168 as it is the smalles one but anything goes)
+* [RTC DS3231] (https://www.aliexpress.com/item/32889773722.html?spm=a2g0s.9042311.0.0.27424c4dvry968) (Remember to get a battery, it is not included and needed)
+* [TTP223 Capacitive touch key] (https://www.aliexpress.com/item/32815466969.html?spm=a2g0s.9042311.0.0.27424c4dvkudii)
+* [Red leds] (https://www.aliexpress.com/item/32862878599.html?spm=2114.12010612.8148356.1.116019a6mAhl0N)
+* [1K Resistor] (https://www.aliexpress.com/item/33029770547.html?spm=a2g0s.9042311.0.0.27424c4dvkudii)
