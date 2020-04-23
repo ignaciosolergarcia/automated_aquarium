@@ -7,7 +7,9 @@ The idea is to have a continuous system that simulates the sun increasing / decr
 
 [Hailea](http://hailea.com/e-hailea/index.htm) is a Chinese company that builds average aquariums. In this case it is a small one (15 liters) that comes already with a manual led system so it makes it easier to modify it but anyone,  with or without included leds, can be modified to include this system.
 
-![Front view of a Hailea E-15](./images/brand_and_model.jpg)
+<p align="center">
+  <img src="./images/brand_and_model.jpg">
+</p>
 
 # Materials
 
