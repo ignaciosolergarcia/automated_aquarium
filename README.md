@@ -1,3 +1,5 @@
+<img src="./images/wip.jpg" alt="Work in progress" width="100" height="100" align="right" />
+
 # Automated lights for an aquarium 
 This project implements a contiuous system to illuminate any aquarium with a LED based lighting system. It has been implemented on a Hailea E-15 aquarium but it can be easily customized to fit others.
 
@@ -13,12 +15,16 @@ The idea is to have a continuous system that simulates the sun increasing / decr
 
 # User Manual
 
-The aquarium has two working mode that can be selected with the Mode touch key:
+The aquarium has two working modes that can be selected with the Mode touch key:
 
 * Manual
 * Automatic
 
-In Manual mode you can change the lighting power of the white or the blue lights with the corresponding touch keys and you will get feedback of the 
+In Automatic mode the aquarium mimics the world light with progressive changes on the lighting of white leds (sun) and blue leds (moon) following this chart:
+
+(...)
+
+In Manual mode you can change the lighting power of the white or the blue lights with the corresponding touch keys. The status leds show the the intensity on the leds (...)
 
 # Materials
 
