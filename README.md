@@ -17,10 +17,14 @@ The idea is to have a continuous system that simulates the sun increasing / decr
 
 The aquarium has two working modes that can be selected with the Mode touch key:
 
-* Manual
-* Automatic
+* Automatic: in this mode the aquarium mimics the world light with progressive changes on the lighting of white leds (sun) and blue leds (moon) following this chart:
 
-In Automatic mode the aquarium mimics the world light with progressive changes on the lighting of white leds (sun) and blue leds (moon) following this chart:
+![Ligth Chart](./images/light_chart.png)
+
+* Manual:
+
+
+
 
 (...)
 
