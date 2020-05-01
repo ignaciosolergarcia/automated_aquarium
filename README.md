@@ -5,11 +5,14 @@ This project implements a contiuous system to illuminate any aquarium with a LED
 
 The idea is to have a continuous system that simulates the sun increasing / decreasing the light received by the plants and the fishes as the day goes. The system controls at the same time two kind of colors (white and a blue) to simulate the Sun and the Moon.
 
-<img src="./images/front_view.jpg" alt="Front view of the automated Hailea E-15" width=" 500" height="500" align="center"/>
+<p align="center">
+	<img src="./images/front_view.jpg" alt="Front view of the automated Hailea E-15" width=" 500" height="500" align="center"/>
+</p>
 
 [Hailea](http://hailea.com/e-hailea/index.htm) is a Chinese company that builds average aquariums. In this case it is a small one (15 liters) that comes already with a manual led system so it makes it easier to modify it but anyone,  with or without included leds, can be modified to include this system.
-
-<img src="./images/brand_and_model.jpg" height="200" align="center">
+<p align="center">
+	<img src="./images/brand_and_model.jpg" height="200" align="center">
+</p>
 
 # User Manual
 
