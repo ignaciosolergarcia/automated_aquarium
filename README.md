@@ -14,6 +14,8 @@ The idea is to have a continuous system that simulates the sun increasing / decr
 	<img src="./images/brand_and_model.jpg" height="200" >
 </p>
 
+The aquarium out of the box has 4 white led intensities and 2 blue led intensities that can be selected pushing the sun and the moon icons. It goes from off to max intensity and then to off again (which I think is no good for the animals inside as this never happens in nature).
+
 # User Manual
 
 The aquarium has two working modes that can be selected with the Mode touch key:
